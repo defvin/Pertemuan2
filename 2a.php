@@ -17,7 +17,11 @@
                 <option value="B02">B02 - Mouse</option>
                 <option value="C03">C03 - Harddisk</option>
                 <option value="D04">D04 - Mouse Pad</option>
+
 		<option value="D05">D05 - Printer</option>
+
+                <option value="E05">E05 - PRINTER</option>
+
                 </select>          </td>
         </tr>
         <tr>
@@ -61,6 +65,11 @@ if ($kode=="D04"){
 }
 if ($kode=="D05"){
 	$nama="Printer";
+	$harga=1000000;
+}
+
+if ($kode=="E05"){
+	$nama="PRINTER";
 	$harga=1000000;
 }
 
