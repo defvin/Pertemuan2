@@ -1,2 +1,6 @@
-# adly ganteng
-pertemuan2
+# BANDUNG - CIREBON
+# COST = 40KM
+# CIREBON - LEMBANG
+# COST = 70KM
+# LEMBANG - PANGANDARAN
+# COST = 65KM
