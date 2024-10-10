@@ -1,3 +1,11 @@
+
+# BANDUNG - LEMBANG
+# COST = 20KM
+# LEMBANG - CILEGON
+# COST = 50KM
+# CILEGON - PANGADARAN
+# COST = 100KM
+
 # Pertemuan 2
 
 # Details
