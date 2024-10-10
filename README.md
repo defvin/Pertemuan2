@@ -1,8 +1,8 @@
 # Pertemuan 2
 
-# Route Details
+# Detil
 
-| From          | To            | Cost (km) |
+| Dari          | Ke            | Cost (km) |
 |---------------|---------------|-----------|
 | Bandung       | Cimahi        | 10        |
 | Cimahi        | Cianjur       | 50        |
