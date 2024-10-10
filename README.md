@@ -1,1 +1,2 @@
-# Pertemuan2
+# adly ganteng
+pertemuan2
