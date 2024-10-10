@@ -25,3 +25,12 @@
 | Cianjur       | Sukabumi      | 40        |
 | Sukabumi      | Ciamis        | 65        |
 | Ciamis        | Pangandaran   | 45        |
+=======
+Plan bandung pengandaran 
+# bandung - cicalengka 
+  cosh 60 km
+# cicalengka - ciamis 
+  cosh 60 km
+# ciamis - pengandaran 
+  cosh 60 km
+
