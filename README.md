@@ -1,6 +1,6 @@
 # Pertemuan 2
 
-# Detil
+# Details
 
 | Dari          | Ke            | Cost (km) |
 |---------------|---------------|-----------|
